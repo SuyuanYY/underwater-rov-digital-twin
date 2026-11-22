@@ -6,13 +6,22 @@ I designed the system architecture and built an Unreal Engine 5 digital twin for
 
 ## TD3 obstacle avoidance in simulation
 
-![Short preview of TD3 obstacle avoidance in the UE5 simulation](td3-preview.gif)
+<picture>
+  <source type="image/avif" srcset="td3-preview.avif">
+  <img src="td3-preview.webp" alt="Short preview of TD3 obstacle avoidance in the UE5 simulation">
+</picture>
 
 ## UE5 underwater simulation
 
-![The ROV submerges in the UE5 simulator with the monitoring and control panels visible](ue5-preview.gif)
+<picture>
+  <source type="image/avif" srcset="ue5-preview.avif">
+  <img src="ue5-preview.webp" alt="The ROV submerges in the UE5 simulator with the monitoring and control panels visible">
+</picture>
 
 ## ROV digital twin pool test
 
-![Pool test footage showing the physical ROV and the digital twin display](digital-twin-preview.gif)
+<picture>
+  <source type="image/avif" srcset="digital-twin-preview.avif">
+  <img src="digital-twin-preview.webp" alt="Pool test footage showing the physical ROV and the digital twin display">
+</picture>
 
